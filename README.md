@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Developer 
 - 📫 How to reach me ->
 
-LinkedIn: www.linkedin.com/in/imanmaulana1
-Email: maulanaiman902@gmail.com
+- LinkedIn: www.linkedin.com/in/imanmaulana1
+- Email: maulanaiman902@gmail.com
 
 
 <!---
