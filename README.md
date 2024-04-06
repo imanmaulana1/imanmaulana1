@@ -7,7 +7,6 @@ LinkedIn: www.linkedin.com/in/imanmaulana1
 Email: maulanaiman902@gmail.com
 # 
 
-Download CV: [Click Here](https://drive.google.com/file/d/1noDC0ZEbuL6pJscY_R_WR0QmH3Dnzl5M/view?usp=sharing)
 
 
 <!---
