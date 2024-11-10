@@ -1,15 +1,23 @@
-- 👋 Hi, I’m Iman Maulana
-- 👀 I’m interested in Front End Developer 
-- 📫 How to reach me ->
+# Hi there! 👋 I'm Iman Maulana
+I'm a passionate web developer with a knack for creating responsive and efficient applications. Currently, I'm diving deeper into full-stack development, particularly in the JavaScript ecosystem.
 
-LinkedIn: www.linkedin.com/in/imanmaulana1
+## 🛠️ Tech Stack
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
-Email: maulanaiman902@gmail.com
-# 
+
+## 📫 Connect with Me
+Feel free to reach out! 
+<br /><br />
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imanmaulana1)
 
 
 
-<!---
-imanmaulana1/imanmaulana1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
